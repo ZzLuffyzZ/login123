@@ -37,5 +37,5 @@ submitLogin.addEventListener("click",()=>{
             }
             break;
         }
-    submitLogin.disab === false;
+    submitLogin.disabled === false;
 }
